@@ -1,8 +1,10 @@
 venv/
+__pycache__/
 
 # private tokens and keys
 credentials.json
-toekn.json
+token.json
+values.json
 
 # private data
 
