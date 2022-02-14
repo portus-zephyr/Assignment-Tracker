@@ -1,0 +1,9 @@
+venv/
+
+# private tokens and keys
+credentials.json
+toekn.json
+
+# private data
+
+classwork.sqlite
